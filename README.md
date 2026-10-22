@@ -15,8 +15,7 @@ Jag studerar systemutveckling på YH Akademin och arbetar med egna projekt för 
 ### Larmsystem
 Ett Java-projekt där jag arbetar med klasser, arv och olika typer av sensorer.
 
-### Kalkylator
-En enkel miniräknare byggd med Java.
+
 
 ## Mål
 
