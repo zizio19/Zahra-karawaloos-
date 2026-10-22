@@ -1,23 +1,14 @@
 Zahra Karawaloos
+Systemutvecklarstudent · Java
 
-Systemutvecklarstudent inom Java
-
-Jag studerar systemutveckling med inriktning Java på YH Akademin. Här samlar jag mina projekt och utvecklar mina kunskaper inom programmering.
-
-Kunskaper
-
+Jag studerar till systemutvecklare inom Java på YH Akademin. Här delar jag projekt som jag arbetar med under utbildningen och min utveckling inom programmering.
+Det jag arbetar med
 - Java och objektorienterad programmering
 - Git och GitHub
-- Grundläggande databaser och SQL
-- HTML och CSS
+- Databaser och backendutveckling
+Mina projekt
+Larmsystem – ett projekt där jag byggt ett larmsystem med olika sensorer.
 
- Projekt
-
-Larmsystem
-Ett Java-projekt där jag arbetar med klasser, arv och objektorienterad programmering.
-
- Mål
-
-Mitt mål är att utvecklas inom Java och backendutveckling, få praktisk erfarenhet och lära mig arbeta i ett utvecklingsteam.
-
-Jag söker LIA inom Javautveckling med start i november 2027.
+Kalkylator – en enkel miniräknare i Java.
+Nästa steg
+Fortsätta utvecklas inom Java och backend samt få praktisk erfarenhet under min LIA.
