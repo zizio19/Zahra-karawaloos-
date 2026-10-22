@@ -13,7 +13,7 @@ Kunskaper
 
  Projekt
 
-Larmsystem**  
+Larmsystem
 Ett Java-projekt där jag arbetar med klasser, arv och objektorienterad programmering.
 
  Mål
